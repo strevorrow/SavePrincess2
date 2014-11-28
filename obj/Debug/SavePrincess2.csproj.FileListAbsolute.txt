@@ -1,0 +1,6 @@
+C:\Users\strevorrow\Documents\GithubSMT\SavePrincess2\SavePrincess2\bin\Debug\SavePrincess2.exe.config
+C:\Users\strevorrow\Documents\GithubSMT\SavePrincess2\SavePrincess2\bin\Debug\SavePrincess2.exe
+C:\Users\strevorrow\Documents\GithubSMT\SavePrincess2\SavePrincess2\bin\Debug\SavePrincess2.pdb
+C:\Users\strevorrow\Documents\GithubSMT\SavePrincess2\SavePrincess2\obj\Debug\SavePrincess2.csprojResolveAssemblyReference.cache
+C:\Users\strevorrow\Documents\GithubSMT\SavePrincess2\SavePrincess2\obj\Debug\SavePrincess2.exe
+C:\Users\strevorrow\Documents\GithubSMT\SavePrincess2\SavePrincess2\obj\Debug\SavePrincess2.pdb
