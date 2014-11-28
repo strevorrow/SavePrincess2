@@ -14,12 +14,16 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+
 # =========================
 # Operating System Files
 # =========================
 
 # OSX
 # =========================
+# Build Folders 
+[Bb]in/
+[Oo]bj/
 
 .DS_Store
 .AppleDouble
